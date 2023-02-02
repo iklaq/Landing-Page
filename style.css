@@ -1,0 +1,158 @@
+* {
+    margin: 0;
+}
+
+.header {
+    background-color: #1f2937;
+
+    margin-bottom: 100px;
+}
+
+.links {
+    display: flex;
+    margin-right: 40px;
+    padding-top: 10px;
+}
+
+.link {
+    margin-left: 20px;
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.firstrow {
+    padding-top: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    margin-left: 100px;
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+.hero {
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.sign {
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #3882f6;
+    color: white;
+    font-size: 20px;
+    margin-bottom: 100px;
+    margin-top: 20px;
+}
+
+.heading {
+    font-size: 48px;
+    color: #f9faf8;
+    width: 300px;
+    margin-bottom: 0px;
+}
+
+.sub-heading {
+    margin-top: 0px;
+    width: 400px;
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.img {
+    width: 10px;
+}
+
+.secondrow {
+    display: flex;
+}
+
+.middle-container {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.text {
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 36px;
+    color: #1f2937;
+}
+
+.middle-images {
+    display: flex;
+    justify-content: center;
+    border: none;
+}
+
+.middle-text {
+    text-align: center;
+}
+
+.quote-container {
+    background-color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+
+.quote-box {
+    width: 600px;
+    padding: 100px;
+}
+
+.quote-text {
+    text-align: left;
+    font-size: 36px;
+    font-style: italic;
+}
+
+.quote-name {
+    margin-left: 400px;
+    font-size: 20px;
+}
+
+.signup-container {
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+
+.signup-box {
+    background-color: #3882f6;
+    width: 700px;
+    height: 100px;
+    display: flex;
+    padding: 30px;
+    border-radius: 10px;
+    color: #fff;
+    justify-content: space-around;
+}
+
+.main-text {
+    font-size: 40px;
+}
+
+.sub-text {
+    font-size: 16px;
+}
+
+.footer-container {
+    background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+}
+
+.footer-content {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f9faf8;
+    font-size: 20px;
+}
